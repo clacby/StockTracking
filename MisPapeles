@@ -1,20 +1,21 @@
-// PARA AGREGAR UN EVENTO COMPLETAR EL SIGUIENTE TEMPLATE E INSERTARLO DEBAJO DEL CORCHETE:
-//
-/*      
-
-  {
-    "Date": "",
-    "Asset": "",
-    "Action": "",
-    "Price": 250.75,
-    "Comments": ""
-  },
-
-
----------------------------------------------------------------------------------------------
-
-
 [
+
+{
+      "name": "INSTRUCCIONES",
+     
+      "_comment": "PARA AGREGAR UN EVENTO COMPLETAR EL SIGUIENTE TEMPLATE E INSERTARLO DEBAJO DEL CORCHETE",
+      ""_TEMPLATE":
+                  {
+                    "Date": "",
+                    "Asset": "",
+                    "Action": "",
+                    "Price": 250.75,
+                    "Comments": ""
+                  },
+
+    },
+
+
   {
     "Date": "2025-08-12",
     "Asset": "NVDA",
