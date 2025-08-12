@@ -1,0 +1,89 @@
+// PARA AGREGAR UN EVENTO COMPLETAR EL SIGUIENTE TEMPLATE E INSERTARLO DEBAJO DEL CORCHETE:
+//
+/*      
+
+  {
+    "Date": "",
+    "Asset": "",
+    "Action": "",
+    "Price": 250.75,
+    "Comments": ""
+  },
+
+
+---------------------------------------------------------------------------------------------
+
+
+[
+  {
+    "Date": "2025-08-12",
+    "Asset": "NVDA",
+    "Action": "followup",
+    "Price": 182.06,
+    "Comments": ""
+  },
+  {
+    "Date": "2025-08-12",
+    "Asset": "GOOGL",
+    "Action": "followup",
+    "Price": 201.00,
+    "Comments": ""
+  },
+ {
+    "Date": "2025-07-28",
+    "Asset": "NVDA",
+    "Action": "followup",
+    "Price": 175.15,
+    "Comments": ""
+  },
+  {
+    "Date": "2025-07-28",
+    "Asset": "GOOGL",
+    "Action": "followup",
+    "Price": 192.77,
+    "Comments": ""
+  },
+{
+    "Date": "2025-07-18",
+    "Asset": "NVDA",
+    "Action": "followup",
+    "Price": 172.41,
+    "Comments": ""
+  },
+  {
+    "Date": "2025-07-18",
+    "Asset": "GOOGL",
+    "Action": "followup",
+    "Price": 185.06,
+    "Comments": ""
+  },
+{
+    "Date": "2025-07-11",
+    "Asset": "NVDA",
+    "Action": "followup",
+    "Price": 164.92,
+    "Comments": ""
+  },
+  {
+    "Date": "2025-07-11",
+    "Asset": "GOOGL",
+    "Action": "followup",
+    "Price": 180.19,
+    "Comments": ""
+  },
+{
+    "Date": "2025-07-07",
+    "Asset": "NVDA",
+    "Action": "compra",
+    "Price": 172.41,
+    "Comments": ""
+  },
+  {
+    "Date": "2025-07-07",
+    "Asset": "GOOGL",
+    "Action": "compra",
+    "Price": 176.80,
+    "Comments": ""
+  }
+
+]
