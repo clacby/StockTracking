@@ -15,6 +15,21 @@
 
     },
    {
+    "Date": "2025-10-27",
+    "Asset": "NVDA",
+    "Action": "followup",
+    "Price": 190.80,
+    "Comments: ""
+  },
+
+  {
+    "Date": "2025-10-27",
+    "Asset": "GOOGL",
+    "Action": "followup",
+    "Price": 268.80,
+    "Comments": ""
+  },
+   {
     "Date": "2025-10-17",
     "Asset": "NVDA",
     "Action": "followup",
